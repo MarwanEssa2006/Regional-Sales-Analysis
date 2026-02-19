@@ -1,4 +1,4 @@
-<img width="1006" height="569" alt="Screenshot 2026-02-19 234517" src="https://github.com/user-attachments/assets/1fcfd3f6-2344-4d9f-80ae-c692d1307c2e" />📊 Sales Analysis Dashboard
+📊 Sales Analysis Dashboard
 📌 Overview
 This project presents an end-to-end Sales Analysis solution built using Power BI, Excel, and Python.
 The objective is to transform raw sales data into actionable business insights that support strategic decision-making.
@@ -27,7 +27,7 @@ PPT - Regional Sales Analysis.pptx → Presentation
 📊 Dashboard Features
 Executive KPI Overview
 Product Performance Analysis
-Channe<img width="1008" height="567" alt="Screenshot 2026-02-19 234556" src="https://github.com/user-attachments/assets/aacd8194-45ae-41c0-b836-29f1944dc74a" />
+Channe
 l Contribution Analysis
 Geographic Insights
 Interactive Filters & Drilldowns
