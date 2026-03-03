@@ -1,60 +1,76 @@
-📊 Sales Analysis Dashboard
-📌 Overview
+# 📊 **Regional Sales Analysis Dashboard**
 
-This project delivers an end-to-end Sales Analysis solution using Power BI, Excel, and Python. The goal is to transform raw sales data into actionable insights that support strategic business decisions.
+[![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=microsoft-power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Excel](https://img.shields.io/badge/Excel-Data-green?logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
 
-🎯 Project Goals
+An end-to-end **Sales Analysis project** using **Power BI, Excel, and Python**.  
+Transforms raw sales data into actionable insights that support **strategic business decisions**.
 
-Analyze sales performance across products, regions, and channels
+---
 
-Identify high-revenue and high-margin products
+## 🎯 **Project Goals**
 
-Detect seasonality trends
+- Analyze sales performance across **products, regions, and channels**  
+- Identify **high-revenue** and **high-margin** products  
+- Detect **seasonality trends**  
+- Build an **interactive executive-level dashboard**
 
-Build an interactive executive-level dashboard
+---
 
-📈 Key Insights
+## 📈 **Key Insights**
 
-💰 $1.2B+ Total Revenue
+- 💰 **$1.2B+ Total Revenue**  
+- 📊 **37.36% Profit Margin**  
+- 📦 **Wholesale contributes 54% of total revenue**  
+- 🌎 **California drives 19.5% of overall sales**  
+- 📈 Clear **monthly seasonality patterns**
 
-📊 37.36% Profit Margin
+---
 
-📦 Wholesale contributes 54% of total revenue
+## 🛠 **Tools & Technologies**
 
-🌎 California drives 19.5% of overall sales
+- **Power BI** → Data Modeling, DAX, Dashboard Design  
+- **Excel** → Data Cleaning & Preparation  
+- **Python (EDA)** → Exploratory Data Analysis  
+- **Star Schema Model** → Fact & Dimension Tables  
+- **Executive KPI Overview**  
+- **Product Performance Analysis**  
+- **Channel Contribution Analysis**  
+- **Geographic Insights**  
+- **Interactive Filters & Drilldowns**
 
-📈 Clear monthly seasonality patterns
+---
 
-🛠 Tools & Technologies
+## 🚀 **Business Value**
 
-Power BI → Data Modeling, DAX, Dashboard Design
+This project demonstrates how data analytics can:
 
-Excel → Data Cleaning & Preparation
+- Improve **strategic sales planning**  
+- Optimize **product portfolio decisions**  
+- Identify **profitable regions and channels**  
+- Support **data-driven decision making**
 
-Python (EDA) → Exploratory Data Analysis
+---
 
-Star Schema Model → Fact & Dimension Tables
+## 🗂 **Dataset**
 
+- **Regional Sales Dataset.xlsx**  
+- **Sales_data(EDA Exported).csv**  
+- **SALES REPORT.pbix** – Power BI Dashboard  
+- Screenshot previews included in the repo  
 
-Executive KPI Overview
+---
 
-Product Performance Analysis
+## 🔧 **👨‍💻 About the Author**
 
-Channel Contribution Analysis
+**Marwan Essa – Data Analyst & Full-Stack Developer**  
 
-Geographic Insights
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwanessa-fullstack)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MarwanEssa2006)
 
-Interactive Filters & Drilldowns
+---
 
-🚀 Business Value
+## 💡 **Repository Description (Short)**
 
-This project highlights how data analytics can:
-
-Improve strategic sales planning
-
-Optimize product portfolio decisions
-
-Identify profitable regions and channels
-
-Support data-driven decision making
-
+"End-to-end regional sales analysis project using Power BI, Excel, and Python for actionable business insights and strategic decision making."
