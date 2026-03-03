@@ -66,11 +66,7 @@ This project demonstrates how data analytics can:
 
 **Marwan Essa – Data Analyst & Full-Stack Developer**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwanessa-fullstack)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MarwanEssa2006)
+ - LinkedIn: marwanessa-fullstack
+ - GitHub: MarwanEssa2006
 
----
-
-## 💡 **Repository Description (Short)**
-
-"End-to-end regional sales analysis project using Power BI, Excel, and Python for actionable business insights and strategic decision making."
+    
